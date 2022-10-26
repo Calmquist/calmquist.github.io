@@ -111,7 +111,7 @@ Note: The Good Climb is due to racial bonus.
 
 * Equipment: None - it was taken
   
-In the public, Noriko Tan-Shai is a renowned researcher and engineer. Secretly, she has ties to an Exarch and is a pioneer in Deep Engine technology. One day, she was abducted by "pirates" (definitely not affiliated with the Cybernetic Union; That would be absurd!). So far, no ransom has been announced. What will be her fate, and what do her captors want?
+In public, Noriko Tan-Shai is a renowned researcher and engineer. Secretly, she has ties to an Exarch and is a pioneer in Deep Engine technology. One day, she was abducted by "pirates" (definitely not affiliated with the Cybernetic Union; That would be absurd!). So far, no ransom has been announced. What will be her fate, and what do her captors want?
 
 Note: Noriko's negative scale is due to the combination of being a noodle-armed researcher combined with eldothic genetics.
 
