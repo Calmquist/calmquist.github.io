@@ -1,5 +1,5 @@
 ---
-title: "Fudge Psi-Wars Part 1"
+title: "Fudge Psi-Wars Example Scenario Part 1"
 date: 2022-11-5
 ---
 
