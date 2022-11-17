@@ -29,6 +29,7 @@ Before trying to design our own blasters, we should examine predesigned blasters
 Weapons and Armor in Fudge's prebuilt Sci-Fi Randged Weapons table lists lasers, plasma weapons, particle weapons, a lightning gun, a stun ray and a shockwave weapon. For blasters, particle weapons seem most appropriate. The particle weapons are divided into pistol, rifle and cannon sizes. Cannon may be too large for a typical personal weapon. I suspect it is tripod mounted stationary or vehicle mounted weapon. We will ignore it for now but note that heavy weapon specialist characters may make use of it as a personal weapon.
 
 The two particle weapons have the following stats:
+
 |     Name      |RoF|Short|Medium|Long|Base Range|Base Dmg|Falloff|Lethality|   Critical   |
 |---------------|---|-----|------|----|----------|--------|-------|---------|--------------|
 |Particle Pistol| 5 |  30 |  60  | 150|    30    |   +4   |   -   |  Lethal |Armor Piercing|
@@ -62,12 +63,14 @@ Using Scale, we can scale the weapon damage based on size. If we consider a stan
 A Set of Weapons and Armor for Fudge lists laser and blaster pistols and rifles. We want blasters.
 
 The blaster weapons have the following stats:
+
 |    Weapon    |       Type       |ODF|RoF|Shots|Reload|
 |--------------|------------------|---|---|-----|------|
 |Blaster Pistol|energy (particles)| +5| 1 |  15 |  3   |
 |Blaster Rifle |energy (particles)| +6| 1 |  35 |  3   |
 
 This gives us shots, damage type and reload time but not range bands, but fear not, the article gives us range bands for historical and modern firearms. We will use the modern table since Psi-Wars blasters are glowing bullets:
+
 | Type  |Mediocre|Fair|Good|Great|Superb|Legendary|
 |-------|--------|----|----|-----|------|---------|
 |  Snub |   10   | 20 | 30 |  40 |  50  |    70   |
@@ -104,6 +107,7 @@ Plasma guns are sort of like the Psi-Wars, ultra tech shotguns/grenade launchers
 Weapons and Armor in Fudge has three categories of plasma guns: pistol, rifle and cannon. As with blasters, we can ignore cannons at this stage.
 
 The plasma gun stats are as follows:
+
 |     Name    |RoF|Short|Medium|Long|Base Range|Base Dmg|Falloff|Lethality|   Critical   |
 |-------------|---|-----|------|----|----------|--------|-------|---------|--------------|
 |Plasma Pistol| 5 |  25 |  50  | 100|    30    |   +5   |   1   |  Lethal |  Combustion  |
@@ -142,6 +146,7 @@ Force Swords are important in Psi-Wars, so Fudge Psi-Wars will need to support t
 Surprisingly, Weapons and Armor in Fudge doesn't have any sort of laser sword. Instead, it has a laser sickle and a plasma mace.
 
 The stats are as follows:
+
 |    Name    |Damage|To-hit|Lethality|Speed|Reach| Critical |
 |------------|------|------|---------|-----|-----|----------|
 |Laser Sickle|  +6  |  +2  |  Lethal |  7  |  5  |   Sever  |
@@ -156,6 +161,7 @@ The Sever critical effect severs a limb or a head on a critical hit. Who would h
 If we force sword type weapons in the style of Weapons and Armor in Fudge, we can combine the stats for swords with the damage of blasters. In GURPS Psi-Wars, a basic force sword does 8d(5) damage while a full size blaster rifle does about 6d+2(5) damage. That means a force sword should do approximately +1 to +2 damage compared to a blaster rifle giving it +7 or +8 damage. We can call it +8 for a nice number that keeps damage at approximately +1 ODF/1d GURPS damage. We can examine the number later when we examine armor and wounds.
 
 Using long sword (really more of an arming sword, but everyone gets that wrong) stats with the above damage bonus and applying scale, we get the following stats:
+
 |      Name       |Damage|To-hit|Lethality|Speed|Reach| Critical |
 |-----------------|------|------|---------|-----|-----|----------|
 |   Force Blade   |  +6  |  +0  |  Lethal |  6  |  2  |   Sever  |
@@ -168,6 +174,7 @@ Using long sword (really more of an arming sword, but everyone gets that wrong) 
 A Set of Weapons and Armor for Fudge does have a laser sword. It also has and energy lance and halberd and a laser staff.
 
 The laser sword's stats are as follows:
+
 |   Weapon  |ODF|Type|Reach|Speed|Parry|
 |-----------|---|----|-----|-----|-----|
 |Laser Sword| +5|  E |  0  |  +1 |  +1 |
@@ -183,6 +190,7 @@ Type is energy.
 Note that this puts the laser sword at the same damage bonus as a blaster pistol.
 
 Applying scale and comparing with muscle powered melee weapons, we get the following weapons:
+
 |      Weapon     |ODF|Type|Reach|Speed|Parry|
 |-----------------|---|----|-----|-----|-----|
 |   Force Blade   | +3|  E |  -1 |  +2 |  -1 |
@@ -208,11 +216,13 @@ Neither prebuilt armor list gives us quite what we want. Both have split protect
 A simple thing to do is to pick armor defense levels based on how protective they should be against various weapons. For now, we will only consider defense against energy weapons since that is the damage type of immediate concern.
 
 In standard Fudge, characters gain wounds of various levels based on damage they receive. This is the standard wound table for reference:
+
 |Damage|  1-2  | 3-4|   5-6   |     7-8     |    9+    |
 |------|-------|----|---------|-------------|----------|
 |Wound |Scratch|Hurt|Very Hurt|Incapacitated|Near Death|
 
 Additionally, attacks that succeed with a relative degree of +1 are considered grazes and can deal a maximum amount of damage. This is the standard table for maximum of graze damage for reference:
+
 |DF |  Result |
 |---|---------|
 |<0 |Undamaged|
