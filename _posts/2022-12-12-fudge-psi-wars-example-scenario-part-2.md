@@ -1,6 +1,9 @@
 ---
 title: "Fudge Psi-Wars Example Scenario Part 2"
 date: 2022-12-12
+tags:
+- psi-wars
+- fudge
 ---
 
 # Crank Botwhisperer and Noriko Tan-Shai
