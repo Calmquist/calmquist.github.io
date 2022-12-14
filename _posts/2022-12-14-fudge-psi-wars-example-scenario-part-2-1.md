@@ -19,7 +19,7 @@ In Fudge, we have similar options including:
 
 * Fudge Points
 * Luck
- * This could be its own Gift or be implemented with extra Fudge Points
+  * This could be its own Gift or be implemented with extra Fudge Points
 * "Mook" rules
 * Other "cinematic" combat rules
 * "Success with cost" rules
@@ -34,10 +34,10 @@ Fudge points are the generic luck type metagame currency in Fudge. The default u
 
 * Automatic success at an unopposed action
 * Alter a die roll by one after the roll has been made
- * For comparison, Fate gives a +2 bonus for invoking an aspect
+  * For comparison, Fate gives a +2 bonus for invoking an aspect
 * Reduce the severity of an injury (Flesh Wounds)
 * Get an automatic +4 result instead of rolling
- * This may be used for opposed actions
+  * This may be used for opposed actions
 * Scene altering
 
 These options are similar to the Impulse Buy options. The SRD doesn't give specific guidelines, but it does give some general ideas.
