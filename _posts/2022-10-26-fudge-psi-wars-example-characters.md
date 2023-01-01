@@ -16,7 +16,7 @@ Don't worry too much about the specific details of the Gifts, Faults and Superno
 * Attributes:
   * Fair Strength (Good with Tactile TK)
   * Fair Damage Capacity
-  * Average Rank
+  * Fair Rank
 * Skills:
   * Combat: 2 points
     * Good Force Sword
@@ -39,7 +39,7 @@ Don't worry too much about the specific details of the Gifts, Faults and Superno
       
 * Gifts: Special Gear
 * Faults: Duty (Wardens), Secret (Templar), Disciplines of Faith, Glory Hound
-* Supernormal Abilities: Fair Communion, Tactile TK, Average TK Grab, Precognitive Defense
+* Supernormal Abilities: Fair Communion, Tactile TK, Fair TK Grab, Precognitive Defense
   
 * Equipment: Blaster Pistol, Comms, Force Sword and Shield, Origami Armor, Standard Gear
 

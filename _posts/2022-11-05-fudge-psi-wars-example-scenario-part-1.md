@@ -1,6 +1,9 @@
 ---
 title: "Fudge Psi-Wars Example Scenario Part 1"
 date: 2022-11-5
+tags:
+- psi-wars
+- fudge
 ---
 
 # Ben Dayfall
