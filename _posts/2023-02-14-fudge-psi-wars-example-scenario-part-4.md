@@ -75,6 +75,10 @@ Q: How did a **Good** level ergokinetic shield stop a blaster?
 
 A: A good roll combined with high Damage Capacity and dodge. Use your imagination.
 
+Q: This isn't a real FAQ! You/I are/am the only only one asking the questions.
+
+A: That isn't a question.
+
 ## And Now Back to the Retrospective
 The shield is OP, and the ability to deactivate it removes any real weakness. Even with superior skill, the shield was simply too much for the psiborg. The psiborg really should have had better armor too. **Great** Damage Capacity sounds great, but it doesn't compete with real armor even with the ergokinetic shield.
 
