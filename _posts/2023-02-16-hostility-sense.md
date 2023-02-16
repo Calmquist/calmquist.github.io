@@ -7,12 +7,20 @@ tags:
 - powers
 ---
 
+Espers are not the only psychics who can sense danger. Telepaths are also able to detect danger in a more limited way.
+
 # Hostility Sense 12/15/17/21 points for levels 1-4
 _Skill:_ Hostility Sense (Per/Hard).
 
 You can sense the nearby source of hostility from living, sapient (IQ 6+). This is a passive sense, but you may use it actively if you wish. The GM rolls against your skill (using the standard range penalties, p. B550) whenever a nearby sapient creature bears hostility toward you. On a success, you become aware of the hostility.
 
-At level 1, you only know that someone is hostile toward you. On a critical success, you know the direction and the intensity of the hostility. At level 2, you know the intensity of the hostility but only know the direction on a critical success. At level 3, you also know the direction of the hostility. At level 4, you also know the distance to the hostility.
+At level 1, you only know that someone is hostile toward you. It provides enough information to avoid _total surprise_ but you must use your other senses to detect an immediate threat and attempt an active defense except on a critical success. On a critical success, you know the direction and the intensity of the hostility.
+
+At level 2, you know the intensity of the hostility but only know the direction on a critical success. You can tell when an attack is about to take place and may have time to take cover or _dodge and drop_.
+
+At level 3, you also know the direction of the hostility. At this level, you have enough information to make any applicable active defense.
+
+At level 4, you also know the distance to the hostility.
 
 This ability detects hostility, not danger in general. It provides sufficient warning to avoid total surprise from an _ambush_ but does not prevent "freezing" from partial surprise when encountering a party that is not _already hostile_ to you. It provides enough warning to attempt an active defense against an attack made by an unseen character who's hostility you have detected. It provides warning against falling rocks dropped by hostile actors but not rocks dropped due to negligence. It provides no warning in general against preset traps, but it may provide sufficient warning if hostile actors are lying in wait for the character to trigger the traps.
 
