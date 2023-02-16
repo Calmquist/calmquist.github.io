@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hostility Sense 12/15/17/21 points for levels 1-4
-Skill: Hostility Sense (Per/Hard).
+_Skill:_ Hostility Sense (Per/Hard).
 
 You can sense the nearby source of hostility from living, sapient (IQ 6+). This is a passive sense, but you may use it actively if you wish. The GM rolls against your skill (using the standard range penalties, p. B550) whenever a nearby sapient creature bears hostility toward you. On a success, you become aware of the hostility.
 
@@ -32,7 +32,7 @@ As for Psi Sense (Psionic Powers p. 41).
 
 _Default:_ Hostility Sense-5; cannot exceed Hostility Sense.
 
-Your Hostility Sense uses the long-distance modifiers (p. B241) instead of the standard range modifiers.
+You extend the range of your hostility sense. Use the long-distance modifiers (p. B241) instead of the standard range modifiers. The effects of this technique last for one minute.
 
 ## Lock-On
 **Hard**
