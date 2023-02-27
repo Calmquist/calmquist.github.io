@@ -1,5 +1,5 @@
 ---
-title: "New Telepathy Abilitiy: Hostility Sense"
+title: "GURPS: New Telepathy Abilitiy - Hostility Sense"
 date: 2023-02-16
 tags:
 - gurps
