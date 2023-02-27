@@ -24,6 +24,7 @@ _Skill:_ Interportation (IQ/Hard)
 You can teleport objects around the size of a small knife that you touch directly inside of your target. Make an attack roll using the Interaportation Skill. If you hit, make a quick contest of Interportation vs HT applying the standard range penalty to your skill (p. B550). If you win, you inflict 1d-2 impaling damage to your target. You may aim your attack at specific body parts. The attack is invisible and appears inside the body instantly. If the target is somehow aware of the attack, he may dodge at -4. Otherwise, he gets no defense.
 
 The rate of fire is based on level shown in the table below:
+
 |  Level  |    RoF     | Skill Bonus |
 |---------|------------|-------------|
 |    1    |     1      |      +0     |
