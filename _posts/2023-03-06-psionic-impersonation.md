@@ -41,7 +41,7 @@ Instead of disguising yourself as a specific individual, you blend into a crowd 
 
 _Default_: Impersonation-4; cannot exceed impersonation
 
-Instead of disguising yourself as a specific individual, you blend into a crowd as a "generic person." Make a Quick Contest against anyone who observes you. If you win, the person viewing you has a -6 penalty to all rolls to recognize you after the fact. You are still entirely visible. People can see you, but they tend not to remember you. This penalty increases to -8 at level 2.
+Instead of disguising yourself as a specific individual, you blend into a crowd as a "generic person." Make a Quick Contest against anyone who observes you. If you win, the person viewing does not remember you after the fact. You are still entirely visible. People can see you in the moment, but they do not to remember you.
 
 ## Rapid Adaptation
 **Hard**
