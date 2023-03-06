@@ -41,7 +41,7 @@ Instead of disguising yourself as a specific individual, you blend into a crowd 
 
 _Default_: Impersonation-4; cannot exceed impersonation
 
-Instead of disguising yourself as a specific individual, you blend into a crowd as a "generic person." Make a Quick Contest against anyone who observes you. If you win, the person viewing does not remember you after the fact. You are still entirely visible. People can see you in the moment, but they do not to remember you.
+Instead of disguising yourself as a specific individual, you blend into a crowd as a "generic person." Make a Quick Contest against anyone who observes you. If you win, the person viewing does not remember you after the fact but does have a clear sense that his memory was manipulated somehow. You are still entirely visible. People can see you in the moment, but they do not to remember you.
 
 ## Rapid Adaptation
 **Hard**
@@ -52,13 +52,13 @@ If you succeed with this technique, reduce the activation time by half. For each
 
 Buy this technique separately the visual and auditory effects. 
 
-# Electronic Impersonation 16/22 points for levels 1-2.
+# Electronic Impersonation 12/16 points for levels 1-2.
 As for Impersonation but replace Telepathy with Ergokinesis and Only against living, sapients with Only against electronic machines.
 
 Roll at a penalty equal to the target's complexity for most machines instead of a Quick Contest. Make a Quick Contest against AI's Will.
 
 ## Gray Man
-The Gray Man technique applies to algorithmic searches to notice you.
+The Gray Man technique applies to algorithmic searches to notice you. Gray Man Alternate removes you from the "memory" of computers but leaves clear traces of tampering.
 
 # Designer Notes
 I could have used the Glamour limitation to represent the mind manipulating nature of the abilities, but I decided to use Quick Contest mechanics instead of a penalized Will check. Swapping the limitation is a simple task left as an exercise to the reader.
