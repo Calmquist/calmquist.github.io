@@ -9,7 +9,7 @@ tags:
 
 This post contains a disguise ability for the Ergokinesis and Telepathy powers. The base ability is obvious, but hopefully some of the details will prove useful.
 
-# Impersonation 16/22 points for levels 1-2.
+# Impersonation 12/16 points for levels 1-2.
 
 You can alter the minds around you to perceive you differently. You can alter your skin and facial features to appear similar to another of yours or a very similar race. Visualizing your new appearance takes 10 seconds and requires an Impersonation roll to duplicate a particular individual. Whenever you are perceived, roll a Quick Contest of Impersonation vs Will. If you win, the viewer perceives the appearance you visualized, and you gain +4 to disguise rolls against that individual. Your GM rolls each viewer separately but may roll for groups if desired. Returning to your original form takes three seconds.
 
@@ -41,7 +41,7 @@ Instead of disguising yourself as a specific individual, you blend into a crowd 
 
 _Default_: Impersonation-4; cannot exceed impersonation
 
-Instead of disguising yourself as a specific individual, you blend into a crowd as a "generic person." Make a Quick Contest against anyone who observes you. If you win, the person viewing you has a -5 penalty to all rolls to recognize you after the fact. You are still entirely visible. People can see you, but they tend not to remember you. This penalty increases to -7 at level 2.
+Instead of disguising yourself as a specific individual, you blend into a crowd as a "generic person." Make a Quick Contest against anyone who observes you. If you win, the person viewing you has a -6 penalty to all rolls to recognize you after the fact. You are still entirely visible. People can see you, but they tend not to remember you. This penalty increases to -8 at level 2.
 
 ## Rapid Adaptation
 **Hard**
