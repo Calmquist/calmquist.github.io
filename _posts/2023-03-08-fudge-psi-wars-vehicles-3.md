@@ -190,7 +190,7 @@ Some of the numbers from the table are computed using a conversion table found a
 # Spot Checking Weapon Damage vs Vehicle Defenses
 Below, I do simple "spot checking" of weapon damage against vehicles of different classes.
 
-Fudge has an anti-instadeath rule, so any **Clearly Destroyed* type results could be treated as **Nearly Destroyed**. Also, I took creative liberty with naming some of the wound levels. Deal with it!
+Fudge has an anti-instadeath rule, so any **Clearly Destroyed** type results could be treated as **Nearly Destroyed**. Also, I took creative liberty with naming some of the wound levels. Deal with it!
 
 ## Fighters
 Let's start with our typical "fighter scale" blaster such as the Valiant’s Gatling Blaster which does 6dx5 (5) burn in GURPS or ODF +30 using +1/GURPS die or +10 using the THS conversion.
