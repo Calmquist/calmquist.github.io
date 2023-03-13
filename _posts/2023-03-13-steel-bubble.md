@@ -25,7 +25,7 @@ _Statistics:_ Obscure (Physical Projectiles; Anti-Targeting, -20%; Stealthy, +10
 ## Notes
 Waxillium's level may be limited to 2 or 4. It is also part of the Allomancy power and Steel Pushing sub power, so his version would only work on metals, would not affect aluminum and would have a reduced effect on invested metals.
 
-The GM may decide that this ability has reduced or no effect against some large or massive projectiles. That is simply the price one must pay for using a non RAW variant of Obscure.
+The GM may decide that this ability has reduced or no effect against some large or massive projectiles.
 
 # Steel Bubble as a Divine Favor Miracle
 ## Protection from Stones and Arrows
