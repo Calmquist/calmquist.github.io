@@ -53,7 +53,7 @@ If the GM allows, you may instead quarter you level and take an additional -8 pe
 
 **Default:** Warp Missile -5; cannot exceed Warp Missile
 
-This works like the EK Shield and PK Shield techniques, except that it protects against teleportation based attacks (e.g. [https://calmquist.github.io/2023/02/27/two-scientific-attacks.html](Interportation) or Innerportation, Psionic Powers p. 70).
+This works like the EK Shield and PK Shield techniques, except that it protects against teleportation based attacks (e.g. [Interportation](https://calmquist.github.io/2023/02/27/two-scientific-attacks.html) or Innerportation, Psionic Powers p. 70).
 
 # Designer Notes
 The Active Defense limitation normally requires a DX roll, but using an IQ roll is acceptable for a psionic ability as a special effect.
