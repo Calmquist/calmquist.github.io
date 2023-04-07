@@ -12,9 +12,9 @@ Today's post contains a new Telepathy ability for understanding languages.
 # Comprehension
 **9 points**
 
-__Skill: Comprehension (IQ/Hard)__
+__Skill: Borrow Skill (IQ/Hard)__
 
-You can temporarily learn to understand a single language when you hear someone nearby speak it (or see it for sign language). Roll against Comprehension using the normal range penalties (B550) and distance to the language "donor," and the "donor" can resist if he has Mind Shield or similar. Reroll if the distance penalty ever increases. If you are successful, you are able to understand the language at the Accented level (or broken if the speaker only knows the language at Broken). Using this ability does not take an action, and you can switch languages/targets once/turn. This ability does not grant literacy.
+You can temporarily learn to understand a single language when you hear someone nearby speak it (or see it for sign language). Roll against Borrow Skill using the normal range penalties (B550) and distance to the language "donor," and the "donor" can resist if he has Mind Shield or similar. Reroll if the distance penalty ever increases. If you are successful, you are able to understand the language at the Accented level (or broken if the speaker only knows the language at Broken). Using this ability does not take an action, and you can switch languages/targets once/turn. This ability does not grant literacy.
 
 If you have Language Talent, you may learn the language at Native comprehension if your "donor" has Native comprehension.
 
@@ -25,26 +25,26 @@ __Statistics:__ Telepathic Learning 1 (Limited, One-Way Fluency, -20%; Short-Ran
 ## Far Learning
 **Hard**
 
-__Default:__ Comprehension-5; cannot exceed Comprehension
+__Default:__ Borrow Skill-5; cannot exceed Borrow Skill
 
-You can use the long distance modifiers (B239) instead of the normal range modifiers.
+You can use the long distance modifiers (B239) instead of the normal range modifiers. This technique is unnecessary for the Borrow Skill power.
 
 ## Faster Learning
-This technique doesn't exist. It is baked into the ability.
+This technique is unnecessary for the Comprehension ability. It is baked into it.
 
 ## Full Fluency
 **Hard**
 
-__Default:__ Comprehension-4; cannot exceed Comprehension
+__Default:__ Borrow Skill-4; cannot exceed Borrow Skill
 
 Make a concentration roll and roll against the Full Fluency technique. If successful, you can speak (or sign) the language instead of only being able to understand it. This technique lasts for one minute or until you switch languages (whichever comes first).
 
 ## Retention
 **Hard**
 
-__Default:__ Comprehension-6; cannot exceed Comprehension
+__Default:__ Borrow Skill-6; cannot exceed Borrow Skill
 
-As the Borrow Skill technique (Psionic Powers p. 58).
+This works with Comprehension the same as with the Borrow Skill ability (Psionic Powers p. 58).
 
 # Designer Notes
 The ability is a special case of Borrow Skill with Reflexive. Limited, One-Way Fluency would normally be worth much more than -20%, but Telepathic Learning is already limited to skills and learnable advantages. It may be worth a bit more or less than -20%, but it shouldn't change the total cost by more than a point.
