@@ -1,6 +1,6 @@
 ---
 title: "GURPS: Psionic Comprehension"
-date: 2023-03-06
+date: 2023-04-07
 tags:
 - gurps
 - psionics
