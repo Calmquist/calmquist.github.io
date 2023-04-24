@@ -7,7 +7,7 @@ tags:
 - powers
 ---
 
-This is another relatively low effort set of abilities for Psychic Vampirism. At least, it is low effort in concept. Some of the details were a little tricky.
+This is another relatively low effort set of abilities for Psychic Vampirism. It is at least low effort in concept. Some of the details were a little tricky.
 
 # Steal Talent
 **26/30/32/34/36/38/41/43/45 points for levels 1-9**
