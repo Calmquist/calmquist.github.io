@@ -528,4 +528,4 @@ The Psychometabolism abilities don't have enhancements, so their costs don't cha
 # Final Thoughts
 I won't say that Multiplicative Modifiers are superior to Additive Modifiers in all cases, but they may produce better results for abilities that have large enhancement modifiers. -80% in limitations is often crippling even with large enhancements. The main drawback is that using Multiplicative Modifiers requires recomputing cost of most pre published abilities and may even necessitate redesigning abilities. The -80% cap encourages Limited Enhancements (B111) which makes for more complex builds but may also allow for additional interesting options.
 
-I may do something similar for Sorcery and Divine Favor at some point. I totally haven't already done the work already.
+I may do something similar for Sorcery and Divine Favor at some point. I totally haven't done the work already.
