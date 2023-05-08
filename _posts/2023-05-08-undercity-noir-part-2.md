@@ -9,7 +9,7 @@ tags:
 
 Today's post is a report of Undercity Noir game 2, session 2. I will keep the review free (or mostly free) of spoilers. I won't be strict about chronology since the session was largely split party where the sequence of events is not entirely unclear and because it makes for a more coherent summary.
 
-As with [last time](_posts/2023-04-05-undercity-noir-intro.md), I will focus on my character, Astanya Xakkithe (Xaka), since I know his perspective the best.
+As with [last time](https://calmquist.github.io/2023/04/05/undercity-noir-intro.html), I will focus on my character, Astanya Xakkithe (Xaka), since I know his perspective the best.
 
 Gleep's player was out, so Gleep went early to pursue Cherry.
 
