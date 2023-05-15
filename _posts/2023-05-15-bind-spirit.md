@@ -66,7 +66,9 @@ Any insubstantial being that touches the bound target must win a Quick Contest a
 
 _Default:_ Bind Spirit-4; cannot exceed Bind Spirit.
 
-If you have the Spectral Surge (Pyramid #3/99, p. 5) ability, you can use it in conjunction with Bind Spirit. Use the worse range penalties and smaller area for both abilities when used this way. Spectral Surge does not become "sticky" when this technique is used with Spirit Trap.
+If you have the Spectral Surge (Pyramid #3/99, p. 5) ability, you can use it in conjunction with Bind Spirit. Use the worse range penalties and smaller area for both abilities when used this way, and make a single roll against this technique for both abilities.
+
+Spectral Surge does not become "sticky" when this technique is used with Spirit Trap.
 
 ## Unbreakable Bonds
 **Hard**
