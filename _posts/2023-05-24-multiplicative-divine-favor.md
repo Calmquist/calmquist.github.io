@@ -117,7 +117,7 @@ No change
 **Multiplicative Cost:** 42; Learned: 9
 
 ## Notes
-Most of the miracles cost fewer points but typically not by much. The Learned Prayer cost rarely changes by more than a point. lay on Hands, Smite and Consecrate Ground are exceptions since they have significant enhancements and limitations.
+Most of the miracles cost fewer points but typically not by much. The Learned Prayer cost rarely changes by more than a point. Lay on Hands, Smite and Consecrate Ground are exceptions since they have significant enhancements and limitations.
 
 # Miraculous Power
 ## Walk on the Water (Enhanced)
