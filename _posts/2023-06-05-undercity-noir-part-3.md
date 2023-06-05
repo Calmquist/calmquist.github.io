@@ -1,6 +1,6 @@
 ---
 title: "Psi-Wars Undercity Noir Session 3"
-date: 2023-06-06
+date: 2023-06-05
 tags:
 - gurps
 - psi-wars
