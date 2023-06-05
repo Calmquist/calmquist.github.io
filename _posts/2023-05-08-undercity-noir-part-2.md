@@ -21,7 +21,7 @@ Simon needed a place to stay and asked one of his [trader](http://psi-wars.wikid
 
 At the hotel, Simon met an old bounty hunter acquaintance who elicited some information and gave some in return. I suspect we will see more of him later.
 
-At some point, Simon spent some time to analyze the intelligence he gained using his Digital Oracle, one of his [Neo Rationalist](psi-wars.wikidot.com/neo-rationalism) abilities. (As a side note, this confirmed to me that Xaka has the higher Intelligence Analysis skill level while Simon has a cool ability that gives it extra uses; we could make a great team)
+At some point, Simon spent some time to analyze the intelligence he gained using his Digital Oracle, one of his [Neo Rationalist](http://psi-wars.wikidot.com/wiki:neo-rationalism) abilities. (As a side note, this confirmed to me that Xaka has the higher Intelligence Analysis skill level while Simon has a cool ability that gives it extra uses; we could make a great team)
 
 Some time either before, during or after the analysis, Simon received an urgent message from Blake.
 
@@ -38,7 +38,7 @@ Before Xaka began his research, he was interrupted by a student whose grades had
 # Another Cat, Another Creep and More Cops
 Anastasia spent some time dancing and gained the attention of a different creep. She promised to meet him later but said she was busy at the moment. She also gave the man burner contact information.
 
-Anastasia was the first to arrive not far from the meeting location where she stopped at a food stall where a [gaunt](http://psi-wars.wikidot.com/wiki:gaunt) was selling [Shinjurai Sushi](http://psi-wars.wikidot.com/federation-remnant-culture#toc31) and good luck charms (the sushi was definitely not made with dead flesh). Xaka arrived shortly after, and the gaunt seemed to recognize him, so I assume they were acquaintances.
+Anastasia was the first to arrive not far from the meeting location where she stopped at a food stall where a [gaunt](http://psi-wars.wikidot.com/wiki:gaunt) was selling [Shinjurai Sushi](http://psi-wars.wikidot.com/wiki:federation-remnant-culture#toc31) and good luck charms (the sushi was definitely not made with dead flesh). Xaka arrived shortly after, and the gaunt seemed to recognize him, so I assume they were acquaintances.
 
 Some "allegedly" crazy keleni prophet that Xaka knew caused a disturbance and disparaged the Empire and the Emperor. The constables/security agents went to detain him, but the temple master came to collect the prophet and take him away and asked the security to be lenient with the old man.
 
