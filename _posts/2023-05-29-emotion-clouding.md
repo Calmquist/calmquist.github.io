@@ -63,4 +63,6 @@ This technique is also available for the Anti-Psi version of Mind Shield.
 # Designer Notes
 Obscure (Emotions) was detailed in Pyramid #3/99 p. 9. Suppress Fear and Suppress Influence are Unfazeable and Indomitable respectively. A technique based on Fearlessness is an alternative to Suppress fear, but the Rule of 14 makes Fearlessness less useful without heavy Fright Check penalties. Resistant at the +3, +8 and immunity levels is another option for both techniques.
 
+A non Defensive variant is possible. It would obscure _your_ ability to discern emotions of others. Recalculating the cost is left as an exercise to the reader.
+
 The material presented here is my original creation, intended for use with the [GURPS](https://www.sjgames.com/gurps/) system from [Steve Jackson Games](https://www.sjgames.com/). This material is not official and is not endorsed by Steve Jackson Games.
