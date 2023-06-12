@@ -33,7 +33,7 @@ _Skill:_ Shadow Hands (IQ/Hard)
 
 You can create a pair of shadowy hands that can move objects at a distance. They have a ST and Move (modified by encumbrance) equal to your Shadow Hands level. You can use the hands to grab objects, strike, grapple, throw objects, etc. but you cannot affect yourself directly. This ability works like the short ranged variant of TK Grab (Psionic Powers p. 54), but your shadowy hands are visible. You may use this ability only in an area with nearby shadows.
 
-_Statistics:_ Telepathy (Based on IQ, +20%; Cannot Affect Self, -20%; Environmental, Shadows, -5%; Increased Range, x2, +10%; Necrokinesis, -10%; Requires IQ Roll, -10%; Visible, -20%) [3.25/level]
+_Statistics:_ Telekinesis (Based on IQ, +20%; Cannot Affect Self, -20%; Environmental, Shadows, -5%; Increased Range, x2, +10%; Necrokinesis, -10%; Requires IQ Roll, -10%; Visible, -20%) [3.25/level]
 
 ## Mass Grab
 This is identical to the TK Grab technique (Psionic Powers p. 55).
@@ -49,7 +49,7 @@ This works like the TK Grab technique (Pyramid 3/97 p. 10) but note the prerequi
 This is identical to the Tactile Telekinesis TK Grab technique (Pyramid 3/97 p. 11) with the added effect of covering your body with visible shadows making it obvious that _something_ is happening.
 
 # Strike Blind
-**/level**; **/level** with Multiplicative Modifiers
+**25/28/31/36 for levels 1-4 + 36 points/additional level**; **8/18/29/34 * 34/additional level** with Multiplicative Modifiers
 
 _Skill:_ Strike Blind (Will/Hard)
 
@@ -57,7 +57,7 @@ You can blind a target. Roll a Quick Contest of skill vs. the subject's Will; Mi
 
 At level 1, this requires skin-to-skin contact. At level 2, it requires a touch. At level 3, it can be used at range at -1/yard to skill. At level 4, apply normal range penalties (B550). Your target resists at -1/level after 4.
 
-_Statistics:_
+_Statistics:_ This is identical to Sleep except replace Daze with Blindness for no change in cost.
 
 ## Mental Blindness
 _Default:_ Strike Blind -3; cannot exceed Strike Blind
