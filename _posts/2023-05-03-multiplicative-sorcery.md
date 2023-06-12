@@ -37,6 +37,8 @@ Previously, I calculated the point costs of the abilities in Psionic Powers. Tod
 
 **Multiplicative:** 3
 
+Note: Under Additive Modifiers, Haircut would be a candidate for hardcore improvisation. With Multiplicative Modifiers, it is a good cost for normal improvisation. In neither case would a PC normally take it as a known spell.
+
 ## Tanglefoot
 **Additive:** 30
 
@@ -139,6 +141,8 @@ Note: Suspend Time is a great candidate for additional limitations.
 **Additive:** 48 or 98
 
 **Multiplicative:** 20 or 35
+
+Note: The -70% limitations combined with the improved version having an enhancement explains the cost difference.
 
 # Light and Darkness
 ## Light
