@@ -49,7 +49,7 @@ This works like the TK Grab technique (Pyramid 3/97 p. 10) but note the prerequi
 This is identical to the Tactile Telekinesis TK Grab technique (Pyramid 3/97 p. 11) with the added effect of covering your body with visible shadows making it obvious that _something_ is happening.
 
 # Strike Blind
-**25/28/31/36 for levels 1-4 + 36 points/additional level**; **8/18/29/34 * 34/additional level** with Multiplicative Modifiers
+**22/25/28/33 for levels 1-4 + 33points/additional level**; *8/16/27/31 * 31/additional level** with Multiplicative Modifiers
 
 _Skill:_ Strike Blind (Will/Hard)
 
@@ -57,7 +57,7 @@ You can blind a target. Roll a Quick Contest of skill vs. the subject's Will; Mi
 
 At level 1, this requires skin-to-skin contact. At level 2, it requires a touch. At level 3, it can be used at range at -1/yard to skill. At level 4, apply normal range penalties (B550). Your target resists at -1/level after 4.
 
-_Statistics:_ This is identical to Sleep except replace Daze with Blindness for no change in cost.
+_Statistics:_ Affliction 1 (Will; Based on Will, +20%; Blindness, +50%; Contact Agent, -30%; Malediction 1, +100%; Melee Attack, C, No Parry, -35%; Necrokinesis, -10%; No Signature, +20%) [22]. Further levels remove Contact Agent at level 2 and Melee Attack at level 3 then improve Malediction to 2 at level 4. Additional levels add levels to Affliction.
 
 ## Mental Blindness
 _Default:_ Strike Blind -3; cannot exceed Strike Blind
