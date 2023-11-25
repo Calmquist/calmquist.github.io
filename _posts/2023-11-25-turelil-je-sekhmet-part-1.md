@@ -1,5 +1,5 @@
 ---
-title: "Psi-Wars Tūrelil jē Sekhmet"
+title: "Psi-Wars Tūrelil jē Sekhmet Part 1"
 date: 2023-11-25
 tags:
 - gurps
