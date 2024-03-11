@@ -22,7 +22,7 @@ Gleep obtained schematics for the artifact from Yuan Tino. Obviously, we didn't 
 
 We discussed several plans for getting in, finding the artifact, obtaining it, dealing with unforeseen situations and getting out. Getting out was the weakest part of the plan since we will be on a space ship without a clear way off. We may have to rely on Luck, luck charms and Impulse Buy points to get through it, but it should be possible.
 
-We still need to get a ticket for Series, but we should have a way to get everyone else on board. We have Simon as an insider and Petro Magnum as a sleeper agent. Blake and Xaka will have an opportunity to authenticate the artifact. We also have a few ways of dealing with security cameras temporarily.
+We still need to get a ticket for Ceres, but we should have a way to get everyone else on board. We have Simon as an insider and Petro Magnum as a sleeper agent. Blake and Xaka will have an opportunity to authenticate the artifact. We also have a few ways of dealing with security cameras temporarily.
 
 With the information we gained, Blake's Oracle ability and Xaka's Intelligence Analysis, we were able to reduce BAD from -5 to -4. That should be doable.
 
@@ -47,6 +47,6 @@ After the services, Xaka took Blake to meet with Kira to discuss matters related
 # Other Things
 **Note:** Psi-Wars may have a significant amount of lore, but it isn't necessary to know lore to run or play Psi-Wars. I mention it for reference and for fun, but I not everyone knows nor cares about it. I know for certain that Anastasia's player picks things that seem Psi-Warsie and wings it.
 
-We have one more ticket to procure. We also have to deliver the artifact safely and get it off world. We expect opposition even after leaving the Prestige. We also need to keep Kira from assassinating Mortimer Sallow at least until after he releases our money. However, we do want to allow Anastasia to assassinate the Slug. We don't need him alive, and Mortimer Sallow is willing to pay us to get rid of him.
+We have one more ticket to procure. We also have to deliver the artifact safely and get it off world. We expect opposition even after leaving the Prestige. We also need to keep Mara from assassinating Mortimer Sallow at least until after he releases our money. However, we do want to allow Anastasia to assassinate the Slug. We don't need him alive, and Mortimer Sallow is willing to pay us to get rid of him.
 
 We _should_ get onto the Prestige next session.
