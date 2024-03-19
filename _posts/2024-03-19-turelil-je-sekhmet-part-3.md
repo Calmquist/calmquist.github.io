@@ -7,7 +7,7 @@ tags:
 - actual play
 ---
 
-Today's post is a continuation report on Tūrelil jē Sekhmet. It won't be entirely chronological in order to make the summary more coherent. See [part 1])(https://calmquist.github.io/2023/11/25/turelil-je-sekhmet-part-1.html) and [part 2](https://calmquist.github.io/2024/02/08/turelil-je-sekhmet-part-2.html) for more information. No amount of "reading ahead" would provide any real spoilers for this part or really anything in the future.
+Today's post is a continuation report on Tūrelil jē Sekhmet. It won't be entirely chronological in order to make the summary more coherent. See [part 1](https://calmquist.github.io/2023/11/25/turelil-je-sekhmet-part-1.html) and [part 2](https://calmquist.github.io/2024/02/08/turelil-je-sekhmet-part-2.html) for more information. No amount of "reading ahead" would provide any real spoilers for this part or really anything in the future.
 
 # Plan for Getting onto Temjara
 Leo gave Kaglen the idea of getting some sort of job that would give him legitimate reason to pass the blockade on Temjara. Kaglen is a member of the "glorified merchant's guild" known as the Sub Rosa Alliance (SRA), so he has connections (he spent quite a few points on Contact Group and Rank). Naturally, his local contact, Shoko Sun, was able to find something. She simply needed a bit of time to prepare the proper paperwork. Since it is totally legitimate, nothing could possibly go wrong.
