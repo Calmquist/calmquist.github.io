@@ -49,6 +49,7 @@ The following packages are from the House Verge's Maradonian bloodline. Due to t
 
 ### Verge Beauty [6 or 15]
 **Prerequisites**: Verge Bloodline
+
 **Advantages**: Attractive [4]; Bloodline Purity 1 [1]; Extreme Sexual Dimorphism [1]
 
 Verge are naturally attractive, and their Maradonian bloodline's beauty tends to pair well with Ranathim features. Unlike some other Maradonian Houses, House Verge tends to have masculine sons and feminine daughters. In some, this distinction is particularly striking.
@@ -59,18 +60,21 @@ For characters with both Verge Beauty and Ranathim Beauty, the package is as fol
 
 ### Verge Compatibility [7]
 **Prerequisites**: Verge Bloodline
+
 **Advantages**: Resistant (+3; Psychic Vampirism) [5]; Ranathim Compatibility [1]; Bloodline Purity 1 [1]
 
 Verge were "designed" to be genetically compatible with Ranathim and suppress certain Ranathim traits in their offspring.
 
 ### Verge Fortitude [16]
 **Prerequisites**: Verge Bloodline
+
 **Advantages**: Very Fit [15]; Bloodline Purity 1 [1]
 
 Verge tend to be healthy and resilient.
 
 ### Verge Cunning [11]
 **Prerequisites**: Verge Bloodline
+
 **Advantages**: Born Tactician 1 [10]
 
 Verge are natural leaders and strategists. It was these skills (and a whole lot of luck) that allowed House Verge to conquer the Astral Spiral with relative ease.
@@ -85,14 +89,18 @@ As Verge Beauty except replace Verge Bloodline Purity 1 [1] with Ranathim Bloodl
 
 ### Ranathim Energy Reserve [6]
 **Prerequisites**: Verge Bloodline
+
 **Advantages**: [Ranathim Energy Reserve](http://psi-wars.wikidot.com/wiki:ranathim#toc6) 6 [9]; Social Vampire [1]; Ranathim Bloodline 1 [1]
+
 **Disadvantages**: Chummy [-5]
+
 **Note**: Social Vampire always and only applies to the Ranathim Energy Reserve.
 
 Some Verge inherit a special psionic energy reserve from their Ranathim ancestors. They lack the ability to feed it by stealing it but are instead able to feed from the energy of crowds. As a result of their inherited hunger, they are uncomfortable when alone.
 
 ### Ranathim Passion [6]
 **Prerequisites**: Verge Bloodline; at least -5 points in [passion disadvantages](http://psi-wars.wikidot.com/wiki:ranathim#toc8)
+
 **Advantages**: [Godlike Extra-Effort](http://psi-wars.wikidot.com/wiki:ranathim#toc4)(Limited, Passion, -20%)[4]; Passionate Psi [1]; Ranathim Bloodline 1 [1]
 
 Some Verge are able to draw both psionic strength from their passions. They can also put extreme effort into their physical abilities like their Ranathim ancestors but only when the Passionate Psi bonus would apply.
