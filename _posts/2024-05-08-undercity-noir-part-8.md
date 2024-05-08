@@ -7,6 +7,12 @@ tags:
 - actual play
 ---
 
+Today's post is a report of Undercity Noir game 2, session 8. We finally got to the Prestige!
+
+The only potential spoiler is at the very end with Anastasia's boarding section. Readers who have been paying attention and know Psi-Wars lore already know while readers who aren't versed in Psi-Wars lore won't understand the significance. Either way, it doesn't matter much at this point.
+
+[session 1](https://calmquist.github.io/2023/04/05/undercity-noir-intro.html), [session 2](https://calmquist.github.io/2023/05/08/undercity-noir-part-2.html), [session 3](https://calmquist.github.io/2023/06/05/undercity-noir-part-3.html), [session 4](https://calmquist.github.io/2023/08/09/undercity-noir-part-4.html), [session 5](https://calmquist.github.io/2023/10/09/undercity-noir-part-5.html), [session 6](https://calmquist.github.io/2023/11/06/undercity-noir-part-6.html), [part 7](https://calmquist.github.io/2024/03/11/undercity-noir-part-7.html)
+
 This time, Gleep's player was unavailable. He should have minimal difficulty getting aboard the Prestige.
 
 # Simon at the Pit
