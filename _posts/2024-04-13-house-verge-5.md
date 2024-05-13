@@ -123,3 +123,5 @@ Slavery is regulated in the Astral Spiral. There are proper procedures for regis
 
 ## Belters of the Hyperspace Graveyard
 I am considering merging the Hyperspace Graveyard and the unnamed belt. I wanted some belter population because I thought that Lithian belters would be a neat combination. Both the belt and the graveyard would share elements such as pirates, scavengers, spacers, etc., so I figured combining them made sense. The graveyard is not the entirety of the belt, but it is a prominent location.
+
+The material presented here is my original creation, intended for use with the [GURPS](https://www.sjgames.com/gurps/) system from [Steve Jackson Games](https://www.sjgames.com/). This material is not official and is not endorsed by Steve Jackson Games.
