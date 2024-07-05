@@ -93,7 +93,7 @@ As a bonus, this strategy would allow enchanting "warforged" or "constructs" if 
 Temporary Enhancement is a power with a single ability, but it is still a power. A few options from GURPS Powers to make the power more interesting are listed below. Choose the ones you want, and try to balance positive and negative options as usual.
 
 ## Skills for Everyone (p. 162)
-Replace the IQ roll with an IQ base as a feature. If there is only one skill and there are no other abilities, there would be no real need for a talent. If each enchantment is a separate skill, a talent is still useful.
+Replace the IQ roll with an IQ based skill as a feature. If there is only one skill and there are no other abilities, there would be no real need for a talent. If each enchantment is a separate skill, a talent is still useful.
 
 ## Multiple Feats (pp. 158-159)
 If you want to limit the number of active enchantments, apply the Multiple Feats penalties.
