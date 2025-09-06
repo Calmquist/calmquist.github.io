@@ -50,3 +50,5 @@ You count as ranathim for mystical or technological effects that operate on rana
 House Verge uses both Maradonian and Lithian names. They typically prefer older "Romanesque" names such as Gaius, Julius, Plinia or Sennia for their Maradonian names and "antique" Lithian names such as Brina, Milsene, Brinthim or Hela. This is only a loose guideline however. Some Verge may even have Westerly names, and they also use more common Maradonian names like Jace or Nova when they aren't trying to make themselves out to be "especially traditional."
 
 House Colttrodder follows the same guidelines except that they are increasingly more likely to use more modern Lithian names and Lithian names in general. House Lawbright sometimes uses "theatrical" or "mystically significant" names.
+
+The material presented here is my original creation, intended for use with the [GURPS](https://www.sjgames.com/gurps/) system from [Steve Jackson Games](https://www.sjgames.com/). This material is not official and is not endorsed by Steve Jackson Games.
