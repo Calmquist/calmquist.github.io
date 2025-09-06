@@ -1,5 +1,5 @@
 ---
-title: "Psi-Wars House Verge Part X: House Verge Legacy Updates"
+title: "Psi-Wars House Verge Part 8: House Verge Legacy Updates"
 date: 2025-09-06
 tags:
 - gurps
